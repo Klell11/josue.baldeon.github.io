@@ -1,1 +1,40 @@
+body 
+{
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
 
+header 
+{
+  text-align: center;
+  padding: 20px;
+  background-color: #333;
+  color: #fff;           
+}
+
+section 
+{
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.profile-card 
+{
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+footer 
+{
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
