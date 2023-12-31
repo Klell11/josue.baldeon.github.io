@@ -47,3 +47,23 @@ img {
     width: 150px;
     height: 150px;
 }
+.contenedor{
+    max-width: 50%;
+    margin: auto;
+}
+.borde{
+    border-bottom: solid 3px;
+    color:blue
+}
+.columna1{
+    width: 25%;
+}
+.columna2{
+    width: 890px;
+    background-color:wheat;
+    
+}
+.imagenes{
+    display: flex;
+    gap: 20px;
+}
