@@ -1,9 +1,89 @@
 body {
-    background-image: url('utc img.jpg');
+    background-image: url('ruta/de/la/imagen-de-fondo.jpg');
     background-size: cover;
     background-position: center;
     margin: 0;
     font-family: Arial, sans-serif;
 }
+{
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
 
-/* Resto de tu código CSS existente */
+header 
+{
+  text-align: center;
+  padding: 20px;
+  background-color: #333;
+  color: #fff;           
+}
+
+section 
+{
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.profile-card 
+{
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+footer 
+{
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.contenedor{
+    max-width: 50%;
+    margin: auto;
+}
+
+.borde{
+    border-bottom: solid 3px;
+    color:blue
+}
+.columna1{
+    width: 25%;
+}
+.columna2{
+    width: 890px;
+    border: black 5px solid;
+    
+}
+.imagenes{
+    display: flex;
+    gap: 20px;
+}
+.separacion{
+    width: 50px;
+}
+.fotoperfil{
+    width: 100px;
+    height: 120px;
+    text-align: center;
+}
+.hobbis{
+    display: flex;
+    gap: 100px;
+    text-align: center;
+}
