@@ -23,9 +23,9 @@ section {
 
 footer {
     text-align: center;
-    background-color: #2E2E41;
+    background-color: #333;
     
-    color: #1E63D9;
+    color: #fff;
     position: fixed;
     bottom: 0;
     width: 100%;
