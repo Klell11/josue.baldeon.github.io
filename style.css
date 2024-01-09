@@ -1,14 +1,13 @@
-
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    color: #EB31B ;
+    color: EB31B;
 }
 
 header {
     text-align: center;
     padding: 20px;
-    background-color: #86112E;
+    background-color: #333;
     color: #fff;
 }
 
@@ -16,7 +15,7 @@ section {
     max-width: 600px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #1E63D9;
+    background-color: #fff;
     box-shadow: 0 0 10px;
     flex-direction: column;
 }
@@ -56,7 +55,7 @@ img {
 }
 
 a {
-    background-color: #4caf50;
+    background-color: #4CAF50;
     color: white;
     padding: 10px 20px;
     border: none;
