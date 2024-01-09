@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    color: #EB3E1B;
+    color: #4D3347;
 }
 
 header {
@@ -57,7 +57,7 @@ img {
 }
 
 a {
-    background-color: #4CAF50;
+    background-color: #EB31B;
     color: white;
     padding: 10px 20px;
     border: none;
