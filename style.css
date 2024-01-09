@@ -8,7 +8,7 @@ body {
 header {
     text-align: center;
     padding: 20px;
-    background-color: #86112E;
+    background-color: #333;
     color: #fff;
 }
 
@@ -16,7 +16,7 @@ section {
     max-width: 600px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #1E63D9;
+    background-color: #fff;
     box-shadow: 0 0 10px;
     flex-direction: column;
 }
@@ -24,7 +24,6 @@ section {
 footer {
     text-align: center;
     background-color: #333;
-    
     color: #fff;
     position: fixed;
     bottom: 0;
@@ -57,7 +56,7 @@ img {
 }
 
 a {
-    background-color: #EB31B;
+    background-color: #4CAF50;
     color: white;
     padding: 10px 20px;
     border: none;
