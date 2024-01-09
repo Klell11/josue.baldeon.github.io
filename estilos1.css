@@ -26,9 +26,9 @@ section
   flex-wrap: wrap;
 }
 
-profile-card 
+.profile-card 
 {
-  border: 20px ;
+  border: 20px solid #ddd ;
   padding: 20px;
   margin: 10px;
   text-align: center;
